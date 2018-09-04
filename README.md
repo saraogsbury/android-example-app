@@ -1,7 +1,7 @@
-Heyzap Android Example App
+FairBid Android Example App
 ===================
 
-An example demonstrating an integration of Heyzap with annotations.
+An example demonstrating an integration of FairBid with annotations.
 
 Look in `src/com/heyzap/ads/example/integration/HeyzapActivity.java` to see examples.
 
